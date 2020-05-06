@@ -1,0 +1,1486 @@
+[
+    {
+        "country_name": "USA",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,160,774 ",
+        "coronavirus_deaths": "67,444",
+        "coronavirus_recovered": "173,725"
+    },
+    {
+        "country_name": "Netherlands",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "40,236 ",
+        "coronavirus_deaths": "4,987",
+        "coronavirus_recovered": "N/A"
+    },
+    {
+        "country_name": "Canada",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "56,714 ",
+        "coronavirus_deaths": "3,566",
+        "coronavirus_recovered": "23,801"
+    },
+    {
+        "country_name": "Switzerland",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "29,817 ",
+        "coronavirus_deaths": "1,762",
+        "coronavirus_recovered": "24,200"
+    },
+    {
+        "country_name": "Russia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "124,054 ",
+        "coronavirus_deaths": "1,222",
+        "coronavirus_recovered": "15,013"
+    },
+    {
+        "country_name": "Turkey",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "124,375 ",
+        "coronavirus_deaths": "3,336",
+        "coronavirus_recovered": "58,259"
+    },
+    {
+        "country_name": "Peru",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "42,534 ",
+        "coronavirus_deaths": "1,200",
+        "coronavirus_recovered": "12,434"
+    },
+    {
+        "country_name": "India",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "39,699 ",
+        "coronavirus_deaths": "1,323",
+        "coronavirus_recovered": "10,819"
+    },
+    {
+        "country_name": "France",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "168,396 ",
+        "coronavirus_deaths": "24,760",
+        "coronavirus_recovered": "50,562"
+    },
+    {
+        "country_name": "Belgium",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "49,517 ",
+        "coronavirus_deaths": "7,765",
+        "coronavirus_recovered": "12,211"
+    },
+    {
+        "country_name": "Ecuador",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "27,464 ",
+        "coronavirus_deaths": "1,371",
+        "coronavirus_recovered": "2,132"
+    },
+    {
+        "country_name": "Germany",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "164,967 ",
+        "coronavirus_deaths": "6,812",
+        "coronavirus_recovered": "129,000"
+    },
+    {
+        "country_name": "Italy",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "209,328 ",
+        "coronavirus_deaths": "28,710",
+        "coronavirus_recovered": "79,914"
+    },
+    {
+        "country_name": "Iran",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "96,448 ",
+        "coronavirus_deaths": "6,156",
+        "coronavirus_recovered": "77,350"
+    },
+    {
+        "country_name": "China",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "82,877 ",
+        "coronavirus_deaths": "4,633",
+        "coronavirus_recovered": "77,713"
+    },
+    {
+        "country_name": "Saint Pierre Miquelon",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "0"
+    },
+    {
+        "country_name": "Brazil",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "97,100 ",
+        "coronavirus_deaths": "6,761",
+        "coronavirus_recovered": "40,937"
+    },
+    {
+        "country_name": "St. Barth",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "6 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "6"
+    },
+    {
+        "country_name": "Caribbean Netherlands",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "6 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "0"
+    },
+    {
+        "country_name": "Bhutan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "7 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "5"
+    },
+    {
+        "country_name": "British Virgin Islands",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "6 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "3"
+    },
+    {
+        "country_name": "UK",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "182,260 ",
+        "coronavirus_deaths": "28,131",
+        "coronavirus_recovered": "N/A"
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "8 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "0"
+    },
+    {
+        "country_name": "Comoros",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "3 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "0"
+    },
+    {
+        "country_name": "Mauritania",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "8 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "6"
+    },
+    {
+        "country_name": "Suriname",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "10 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "8"
+    },
+    {
+        "country_name": "Seychelles",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "11 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "6"
+    },
+    {
+        "country_name": "Anguilla",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "3 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "3"
+    },
+    {
+        "country_name": "Vatican City",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "11 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "2"
+    },
+    {
+        "country_name": "Western Sahara",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "6 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "5"
+    },
+    {
+        "country_name": "Greenland",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "11 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "11"
+    },
+    {
+        "country_name": "Montserrat",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "11 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "2"
+    },
+    {
+        "country_name": "Turks and Caicos",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "12 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "5"
+    },
+    {
+        "country_name": "Falkland Islands",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "13 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "13"
+    },
+    {
+        "country_name": "Burundi",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "15 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "7"
+    },
+    {
+        "country_name": "Saint Kitts and Nevis",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "15 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "8"
+    },
+    {
+        "country_name": "Nicaragua",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "14 ",
+        "coronavirus_deaths": "3",
+        "coronavirus_recovered": "7"
+    },
+    {
+        "country_name": "Namibia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "16 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "8"
+    },
+    {
+        "country_name": "Sao Tome and Principe",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "16 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "4"
+    },
+    {
+        "country_name": "Saint Lucia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "17 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "15"
+    },
+    {
+        "country_name": "Yemen",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "10 ",
+        "coronavirus_deaths": "2",
+        "coronavirus_recovered": "1"
+    },
+    {
+        "country_name": "Gambia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "17 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "9"
+    },
+    {
+        "country_name": "Fiji",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "18 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "14"
+    },
+    {
+        "country_name": "Cura\u00e7ao",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "16 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "13"
+    },
+    {
+        "country_name": "Laos",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "19 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "9"
+    },
+    {
+        "country_name": "Belize",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "18 ",
+        "coronavirus_deaths": "2",
+        "coronavirus_recovered": "13"
+    },
+    {
+        "country_name": "St. Vincent Grenadines",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "16 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "8"
+    },
+    {
+        "country_name": "Grenada",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "21 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "13"
+    },
+    {
+        "country_name": "Botswana",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "23 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "8"
+    },
+    {
+        "country_name": "Timor-Leste",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "24 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "16"
+    },
+    {
+        "country_name": "Dominica",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "16 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "13"
+    },
+    {
+        "country_name": "Zimbabwe",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "34 ",
+        "coronavirus_deaths": "4",
+        "coronavirus_recovered": "5"
+    },
+    {
+        "country_name": "Antigua and Barbuda",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "25 ",
+        "coronavirus_deaths": "3",
+        "coronavirus_recovered": "15"
+    },
+    {
+        "country_name": "Saint Martin",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "38 ",
+        "coronavirus_deaths": "3",
+        "coronavirus_recovered": "27"
+    },
+    {
+        "country_name": "New Caledonia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "18 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "17"
+    },
+    {
+        "country_name": "Eritrea",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "39 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "26"
+    },
+    {
+        "country_name": "Malawi",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "38 ",
+        "coronavirus_deaths": "3",
+        "coronavirus_recovered": "9"
+    },
+    {
+        "country_name": "Macao",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "45 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "37"
+    },
+    {
+        "country_name": "South Sudan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "45 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "0"
+    },
+    {
+        "country_name": "Nepal",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "59 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "16"
+    },
+    {
+        "country_name": "Syria",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "44 ",
+        "coronavirus_deaths": "3",
+        "coronavirus_recovered": "27"
+    },
+    {
+        "country_name": "Libya",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "63 ",
+        "coronavirus_deaths": "3",
+        "coronavirus_recovered": "22"
+    },
+    {
+        "country_name": "CAR",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "72 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "10"
+    },
+    {
+        "country_name": "Cayman Islands",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "74 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "10"
+    },
+    {
+        "country_name": "Angola",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "35 ",
+        "coronavirus_deaths": "2",
+        "coronavirus_recovered": "11"
+    },
+    {
+        "country_name": "Mozambique",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "79 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "18"
+    },
+    {
+        "country_name": "Mongolia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "39 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "10"
+    },
+    {
+        "country_name": "Barbados",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "81 ",
+        "coronavirus_deaths": "7",
+        "coronavirus_recovered": "44"
+    },
+    {
+        "country_name": "French Polynesia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "58 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "51"
+    },
+    {
+        "country_name": "Liechtenstein",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "82 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "55"
+    },
+    {
+        "country_name": "Tajikistan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "76 ",
+        "coronavirus_deaths": "2",
+        "coronavirus_recovered": "0"
+    },
+    {
+        "country_name": "Sint Maarten",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "76 ",
+        "coronavirus_deaths": "13",
+        "coronavirus_recovered": "44"
+    },
+    {
+        "country_name": "Haiti",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "85 ",
+        "coronavirus_deaths": "8",
+        "coronavirus_recovered": "10"
+    },
+    {
+        "country_name": "Bahamas",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "83 ",
+        "coronavirus_deaths": "11",
+        "coronavirus_recovered": "24"
+    },
+    {
+        "country_name": "Eswatini",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "108 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "12"
+    },
+    {
+        "country_name": "Aruba",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "100 ",
+        "coronavirus_deaths": "2",
+        "coronavirus_recovered": "81"
+    },
+    {
+        "country_name": "Bermuda",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "114 ",
+        "coronavirus_deaths": "7",
+        "coronavirus_recovered": "51"
+    },
+    {
+        "country_name": "Benin",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "90 ",
+        "coronavirus_deaths": "2",
+        "coronavirus_recovered": "42"
+    },
+    {
+        "country_name": "Monaco",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "95 ",
+        "coronavirus_deaths": "4",
+        "coronavirus_recovered": "78"
+    },
+    {
+        "country_name": "Zambia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "119 ",
+        "coronavirus_deaths": "3",
+        "coronavirus_recovered": "75"
+    },
+    {
+        "country_name": "Trinidad and Tobago",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "116 ",
+        "coronavirus_deaths": "8",
+        "coronavirus_recovered": "88"
+    },
+    {
+        "country_name": "Cambodia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "122 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "120"
+    },
+    {
+        "country_name": "French Guiana",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "128 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "98"
+    },
+    {
+        "country_name": "Guyana",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "82 ",
+        "coronavirus_deaths": "9",
+        "coronavirus_recovered": "22"
+    },
+    {
+        "country_name": "Uganda",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "88 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "52"
+    },
+    {
+        "country_name": "Togo",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "123 ",
+        "coronavirus_deaths": "9",
+        "coronavirus_recovered": "66"
+    },
+    {
+        "country_name": "Madagascar",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "135 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "97"
+    },
+    {
+        "country_name": "Brunei ",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "138 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "126"
+    },
+    {
+        "country_name": "Gibraltar",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "144 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "132"
+    },
+    {
+        "country_name": "Ethiopia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "133 ",
+        "coronavirus_deaths": "3",
+        "coronavirus_recovered": "69"
+    },
+    {
+        "country_name": "Sierra Leone",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "155 ",
+        "coronavirus_deaths": "8",
+        "coronavirus_recovered": "21"
+    },
+    {
+        "country_name": "Cabo Verde",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "152 ",
+        "coronavirus_deaths": "2",
+        "coronavirus_recovered": "18"
+    },
+    {
+        "country_name": "Martinique",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "179 ",
+        "coronavirus_deaths": "14",
+        "coronavirus_recovered": "83"
+    },
+    {
+        "country_name": "Chad",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "117 ",
+        "coronavirus_deaths": "10",
+        "coronavirus_recovered": "39"
+    },
+    {
+        "country_name": "Liberia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "154 ",
+        "coronavirus_deaths": "18",
+        "coronavirus_recovered": "48"
+    },
+    {
+        "country_name": "Faeroe Islands",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "187 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "184"
+    },
+    {
+        "country_name": "Rwanda",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "255 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "120"
+    },
+    {
+        "country_name": "Guinea-Bissau",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "257 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "19"
+    },
+    {
+        "country_name": "Vietnam",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "270 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "219"
+    },
+    {
+        "country_name": "Equatorial Guinea",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "315 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "9"
+    },
+    {
+        "country_name": "Congo",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "229 ",
+        "coronavirus_deaths": "9",
+        "coronavirus_recovered": "25"
+    },
+    {
+        "country_name": "Myanmar",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "151 ",
+        "coronavirus_deaths": "6",
+        "coronavirus_recovered": "37"
+    },
+    {
+        "country_name": "Isle of Man",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "320 ",
+        "coronavirus_deaths": "22",
+        "coronavirus_recovered": "271"
+    },
+    {
+        "country_name": "Guadeloupe",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "152 ",
+        "coronavirus_deaths": "12",
+        "coronavirus_recovered": "95"
+    },
+    {
+        "country_name": "Paraguay",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "370 ",
+        "coronavirus_deaths": "10",
+        "coronavirus_recovered": "119"
+    },
+    {
+        "country_name": "Mauritius",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "332 ",
+        "coronavirus_deaths": "10",
+        "coronavirus_recovered": "314"
+    },
+    {
+        "country_name": "Montenegro",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "322 ",
+        "coronavirus_deaths": "8",
+        "coronavirus_recovered": "245"
+    },
+    {
+        "country_name": "Gabon",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "335 ",
+        "coronavirus_deaths": "5",
+        "coronavirus_recovered": "85"
+    },
+    {
+        "country_name": "Palestine",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "353 ",
+        "coronavirus_deaths": "2",
+        "coronavirus_recovered": "76"
+    },
+    {
+        "country_name": "Venezuela",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "345 ",
+        "coronavirus_deaths": "10",
+        "coronavirus_recovered": "148"
+    },
+    {
+        "country_name": "R\u00e9union",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "423 ",
+        "coronavirus_deaths": "0",
+        "coronavirus_recovered": "300"
+    },
+    {
+        "country_name": "Taiwan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "432 ",
+        "coronavirus_deaths": "6",
+        "coronavirus_recovered": "324"
+    },
+    {
+        "country_name": "Jordan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "460 ",
+        "coronavirus_deaths": "9",
+        "coronavirus_recovered": "367"
+    },
+    {
+        "country_name": "Malta",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "468 ",
+        "coronavirus_deaths": "4",
+        "coronavirus_recovered": "379"
+    },
+    {
+        "country_name": "El Salvador",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "446 ",
+        "coronavirus_deaths": "11",
+        "coronavirus_recovered": "141"
+    },
+    {
+        "country_name": "Maldives",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "519 ",
+        "coronavirus_deaths": "1",
+        "coronavirus_recovered": "18"
+    },
+    {
+        "country_name": "Mayotte",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "539 ",
+        "coronavirus_deaths": "4",
+        "coronavirus_recovered": "235"
+    },
+    {
+        "country_name": "Kenya",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "435 ",
+        "coronavirus_deaths": "22",
+        "coronavirus_recovered": "152"
+    },
+    {
+        "country_name": "Jamaica",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "463 ",
+        "coronavirus_deaths": "8",
+        "coronavirus_recovered": "33"
+    },
+    {
+        "country_name": "Tanzania",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "480 ",
+        "coronavirus_deaths": "16",
+        "coronavirus_recovered": "167"
+    },
+    {
+        "country_name": "Mali",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "544 ",
+        "coronavirus_deaths": "26",
+        "coronavirus_recovered": "206"
+    },
+    {
+        "country_name": "San Marino",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "580 ",
+        "coronavirus_deaths": "41",
+        "coronavirus_recovered": "83"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "652 ",
+        "coronavirus_deaths": "44",
+        "coronavirus_recovered": "535"
+    },
+    {
+        "country_name": "Channel Islands",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "543 ",
+        "coronavirus_deaths": "41",
+        "coronavirus_recovered": "406"
+    },
+    {
+        "country_name": "Georgia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "582 ",
+        "coronavirus_deaths": "8",
+        "coronavirus_recovered": "207"
+    },
+    {
+        "country_name": "Uruguay",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "652 ",
+        "coronavirus_deaths": "17",
+        "coronavirus_recovered": "440"
+    },
+    {
+        "country_name": "DRC",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "674 ",
+        "coronavirus_deaths": "33",
+        "coronavirus_recovered": "75"
+    },
+    {
+        "country_name": "Guatemala",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "688 ",
+        "coronavirus_deaths": "17",
+        "coronavirus_recovered": "72"
+    },
+    {
+        "country_name": "Somalia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "671 ",
+        "coronavirus_deaths": "31",
+        "coronavirus_recovered": "34"
+    },
+    {
+        "country_name": "Sri Lanka",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "705 ",
+        "coronavirus_deaths": "7",
+        "coronavirus_recovered": "172"
+    },
+    {
+        "country_name": "Costa Rica",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "733 ",
+        "coronavirus_deaths": "6",
+        "coronavirus_recovered": "372"
+    },
+    {
+        "country_name": "Niger",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "736 ",
+        "coronavirus_deaths": "35",
+        "coronavirus_recovered": "507"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "769 ",
+        "coronavirus_deaths": "8",
+        "coronavirus_recovered": "527"
+    },
+    {
+        "country_name": "Latvia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "871 ",
+        "coronavirus_deaths": "16",
+        "coronavirus_recovered": "348"
+    },
+    {
+        "country_name": "Sudan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "592 ",
+        "coronavirus_deaths": "41",
+        "coronavirus_recovered": "52"
+    },
+    {
+        "country_name": "Andorra",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "747 ",
+        "coronavirus_deaths": "44",
+        "coronavirus_recovered": "472"
+    },
+    {
+        "country_name": "Tunisia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,009 ",
+        "coronavirus_deaths": "42",
+        "coronavirus_recovered": "323"
+    },
+    {
+        "country_name": "Albania",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "789 ",
+        "coronavirus_deaths": "31",
+        "coronavirus_recovered": "519"
+    },
+    {
+        "country_name": "Cyprus",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "864 ",
+        "coronavirus_deaths": "15",
+        "coronavirus_recovered": "296"
+    },
+    {
+        "country_name": "Hong Kong",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,040 ",
+        "coronavirus_deaths": "4",
+        "coronavirus_recovered": "864"
+    },
+    {
+        "country_name": "Honduras",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,010 ",
+        "coronavirus_deaths": "76",
+        "coronavirus_recovered": "116"
+    },
+    {
+        "country_name": "Lebanon",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "733 ",
+        "coronavirus_deaths": "25",
+        "coronavirus_recovered": "197"
+    },
+    {
+        "country_name": "Djibouti",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,112 ",
+        "coronavirus_deaths": "2",
+        "coronavirus_recovered": "686"
+    },
+    {
+        "country_name": "Senegal",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,115 ",
+        "coronavirus_deaths": "9",
+        "coronavirus_recovered": "368"
+    },
+    {
+        "country_name": "Lithuania",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,406 ",
+        "coronavirus_deaths": "46",
+        "coronavirus_recovered": "632"
+    },
+    {
+        "country_name": "Slovakia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,407 ",
+        "coronavirus_deaths": "24",
+        "coronavirus_recovered": "608"
+    },
+    {
+        "country_name": "New Zealand",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,487 ",
+        "coronavirus_deaths": "20",
+        "coronavirus_recovered": "1,266"
+    },
+    {
+        "country_name": "Slovenia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,439 ",
+        "coronavirus_deaths": "94",
+        "coronavirus_recovered": "239"
+    },
+    {
+        "country_name": "North Macedonia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,506 ",
+        "coronavirus_deaths": "82",
+        "coronavirus_recovered": "852"
+    },
+    {
+        "country_name": "Bolivia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,470 ",
+        "coronavirus_deaths": "71",
+        "coronavirus_recovered": "159"
+    },
+    {
+        "country_name": "Guinea",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,586 ",
+        "coronavirus_deaths": "7",
+        "coronavirus_recovered": "405"
+    },
+    {
+        "country_name": "Bulgaria",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,594 ",
+        "coronavirus_deaths": "72",
+        "coronavirus_recovered": "287"
+    },
+    {
+        "country_name": "Cuba",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,611 ",
+        "coronavirus_deaths": "66",
+        "coronavirus_recovered": "765"
+    },
+    {
+        "country_name": "Ivory Coast",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,362 ",
+        "coronavirus_deaths": "15",
+        "coronavirus_recovered": "622"
+    },
+    {
+        "country_name": "Estonia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,699 ",
+        "coronavirus_deaths": "53",
+        "coronavirus_recovered": "256"
+    },
+    {
+        "country_name": "Iceland",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,798 ",
+        "coronavirus_deaths": "10",
+        "coronavirus_recovered": "1,706"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,894 ",
+        "coronavirus_deaths": "25",
+        "coronavirus_recovered": "1,411"
+    },
+    {
+        "country_name": "Bosnia and Herzegovina",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "1,839 ",
+        "coronavirus_deaths": "72",
+        "coronavirus_recovered": "779"
+    },
+    {
+        "country_name": "Cameroon",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "2,077 ",
+        "coronavirus_deaths": "64",
+        "coronavirus_recovered": "953"
+    },
+    {
+        "country_name": "Croatia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "2,088 ",
+        "coronavirus_deaths": "77",
+        "coronavirus_recovered": "1,463"
+    },
+    {
+        "country_name": "Armenia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "2,273 ",
+        "coronavirus_deaths": "33",
+        "coronavirus_recovered": "1,010"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "2,118 ",
+        "coronavirus_deaths": "9",
+        "coronavirus_recovered": "1,271"
+    },
+    {
+        "country_name": "Ghana",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "2,169 ",
+        "coronavirus_deaths": "18",
+        "coronavirus_recovered": "229"
+    },
+    {
+        "country_name": "Iraq",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "2,219 ",
+        "coronavirus_deaths": "95",
+        "coronavirus_recovered": "1,473"
+    },
+    {
+        "country_name": "Oman",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "2,483 ",
+        "coronavirus_deaths": "12",
+        "coronavirus_recovered": "750"
+    },
+    {
+        "country_name": "Afghanistan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "2,469 ",
+        "coronavirus_deaths": "72",
+        "coronavirus_recovered": "331"
+    },
+    {
+        "country_name": "Hungary",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "2,942 ",
+        "coronavirus_deaths": "335",
+        "coronavirus_recovered": "625"
+    },
+    {
+        "country_name": "Luxembourg",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "3,812 ",
+        "coronavirus_deaths": "92",
+        "coronavirus_recovered": "3,318"
+    },
+    {
+        "country_name": "Greece",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "2,620 ",
+        "coronavirus_deaths": "143",
+        "coronavirus_recovered": "1,374"
+    },
+    {
+        "country_name": "Thailand",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "2,966 ",
+        "coronavirus_deaths": "54",
+        "coronavirus_recovered": "2,732"
+    },
+    {
+        "country_name": "Bahrain",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "3,284 ",
+        "coronavirus_deaths": "8",
+        "coronavirus_recovered": "1,568"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "3,857 ",
+        "coronavirus_deaths": "25",
+        "coronavirus_recovered": "985"
+    },
+    {
+        "country_name": "Kuwait",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "4,619 ",
+        "coronavirus_deaths": "33",
+        "coronavirus_recovered": "1,703"
+    },
+    {
+        "country_name": "Algeria",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "4,295 ",
+        "coronavirus_deaths": "459",
+        "coronavirus_recovered": "1,872"
+    },
+    {
+        "country_name": "Moldova",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "4,052 ",
+        "coronavirus_deaths": "124",
+        "coronavirus_recovered": "1,334"
+    },
+    {
+        "country_name": "Morocco",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "4,729 ",
+        "coronavirus_deaths": "173",
+        "coronavirus_recovered": "1,256"
+    },
+    {
+        "country_name": "Malaysia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "6,176 ",
+        "coronavirus_deaths": "103",
+        "coronavirus_recovered": "4,326"
+    },
+    {
+        "country_name": "Nigeria",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "2,388 ",
+        "coronavirus_deaths": "85",
+        "coronavirus_recovered": "351"
+    },
+    {
+        "country_name": "Finland",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "5,176 ",
+        "coronavirus_deaths": "220",
+        "coronavirus_recovered": "3,000"
+    },
+    {
+        "country_name": "Argentina",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "4,681 ",
+        "coronavirus_deaths": "237",
+        "coronavirus_recovered": "1,320"
+    },
+    {
+        "country_name": "Egypt",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "6,193 ",
+        "coronavirus_deaths": "415",
+        "coronavirus_recovered": "1,522"
+    },
+    {
+        "country_name": "South Africa",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "6,336 ",
+        "coronavirus_deaths": "123",
+        "coronavirus_recovered": "2,549"
+    },
+    {
+        "country_name": "Colombia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "7,285 ",
+        "coronavirus_deaths": "324",
+        "coronavirus_recovered": "1,666"
+    },
+    {
+        "country_name": "Dominican Republic",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "7,578 ",
+        "coronavirus_deaths": "326",
+        "coronavirus_recovered": "1,481"
+    },
+    {
+        "country_name": "Panama",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "7,090 ",
+        "coronavirus_deaths": "197",
+        "coronavirus_recovered": "641"
+    },
+    {
+        "country_name": "Serbia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "9,362 ",
+        "coronavirus_deaths": "189",
+        "coronavirus_recovered": "1,426"
+    },
+    {
+        "country_name": "Norway",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "7,809 ",
+        "coronavirus_deaths": "211",
+        "coronavirus_recovered": "32"
+    },
+    {
+        "country_name": "Bangladesh",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "8,790 ",
+        "coronavirus_deaths": "175",
+        "coronavirus_recovered": "177"
+    },
+    {
+        "country_name": "Philippines",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "8,928 ",
+        "coronavirus_deaths": "603",
+        "coronavirus_recovered": "1,124"
+    },
+    {
+        "country_name": "Denmark",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "9,407 ",
+        "coronavirus_deaths": "475",
+        "coronavirus_recovered": "6,889"
+    },
+    {
+        "country_name": "Indonesia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "10,843 ",
+        "coronavirus_deaths": "831",
+        "coronavirus_recovered": "1,665"
+    },
+    {
+        "country_name": "Ukraine",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "11,411 ",
+        "coronavirus_deaths": "279",
+        "coronavirus_recovered": "1,498"
+    },
+    {
+        "country_name": "Romania",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "12,732 ",
+        "coronavirus_deaths": "771",
+        "coronavirus_recovered": "4,547"
+    },
+    {
+        "country_name": "S. Korea",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "10,793 ",
+        "coronavirus_deaths": "250",
+        "coronavirus_recovered": "9,183"
+    },
+    {
+        "country_name": "UAE",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "13,599 ",
+        "coronavirus_deaths": "119",
+        "coronavirus_recovered": "2,664"
+    },
+    {
+        "country_name": "Australia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "6,783 ",
+        "coronavirus_deaths": "93",
+        "coronavirus_recovered": "5,789"
+    },
+    {
+        "country_name": "Japan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "14,571 ",
+        "coronavirus_deaths": "474",
+        "coronavirus_recovered": "3,205"
+    },
+    {
+        "country_name": "Czechia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "7,755 ",
+        "coronavirus_deaths": "245",
+        "coronavirus_recovered": "3,461"
+    },
+    {
+        "country_name": "Qatar",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "14,872 ",
+        "coronavirus_deaths": "12",
+        "coronavirus_recovered": "1,534"
+    },
+    {
+        "country_name": "Austria",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "15,558 ",
+        "coronavirus_deaths": "596",
+        "coronavirus_recovered": "13,180"
+    },
+    {
+        "country_name": "Belarus",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "15,828 ",
+        "coronavirus_deaths": "97",
+        "coronavirus_recovered": "3,117"
+    },
+    {
+        "country_name": "Israel",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "16,185 ",
+        "coronavirus_deaths": "229",
+        "coronavirus_recovered": "9,593"
+    },
+    {
+        "country_name": "Singapore",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "17,548 ",
+        "coronavirus_deaths": "17",
+        "coronavirus_recovered": "1,347"
+    },
+    {
+        "country_name": "Pakistan",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "19,103 ",
+        "coronavirus_deaths": "440",
+        "coronavirus_recovered": "4,817"
+    },
+    {
+        "country_name": "Sweden",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "22,082 ",
+        "coronavirus_deaths": "2,669",
+        "coronavirus_recovered": "1,005"
+    },
+    {
+        "country_name": "Mexico",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "22,088 ",
+        "coronavirus_deaths": "2,061",
+        "coronavirus_recovered": "12,377"
+    },
+    {
+        "country_name": "Portugal",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "25,190 ",
+        "coronavirus_deaths": "1,023",
+        "coronavirus_recovered": "1,671"
+    },
+    {
+        "country_name": "Chile",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "18,435 ",
+        "coronavirus_deaths": "247",
+        "coronavirus_recovered": "9,572"
+    },
+    {
+        "country_name": "Poland",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "13,375 ",
+        "coronavirus_deaths": "664",
+        "coronavirus_recovered": "3,762"
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "25,459 ",
+        "coronavirus_deaths": "176",
+        "coronavirus_recovered": "3,765"
+    },
+    {
+        "country_name": "Spain",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "245,567 ",
+        "coronavirus_deaths": "25,100",
+        "coronavirus_recovered": "146,233"
+    },
+    {
+        "country_name": "Ireland",
+        "consulting_day": "2020-05-03",
+        "coronavirus_cases": "21,176 ",
+        "coronavirus_deaths": "1,286",
+        "coronavirus_recovered": "13,386"
+    }
+]
